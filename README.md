@@ -7,4 +7,4 @@
 - Then just run `downloader.js` with Node and it should start to download. Really simple.
 
 # Tools
-- `txt21.js` is for creating one text file from more text files, create a folder where you have more text files that you want to merge to one. Then simply run it with Node.
+- `txt21.js` is for creating one text file from more text files, create a folder (currently called `urls` but you can change it in the code easily) where you have more text files that you want to merge to one. Then simply run it with Node.
