@@ -1,2 +1,2 @@
-# foxDownloader
-A small tool to download from list
+# FoxDownloader
+A small tool to bulk download from URL list
