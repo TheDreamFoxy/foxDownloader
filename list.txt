@@ -1,0 +1,7 @@
+https://cs.wikipedia.org/static/apple-touch/wikipedia.png
+https://cs.wikipedia.org/static/favicon/wikipedia.ico
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/15px-Wikisource-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/15px-Wikiquote-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/15px-Wikibooks-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/15px-Wikiversity_logo_2017.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/20px-Wikinews-logo.svg.png
